@@ -6,11 +6,11 @@
 # https://redwoodjs.com/docs/app-configuration-redwood-toml
 
 [web]
-  port = 8910
+  port = 8916
   apiUrl = "/.netlify/functions"
   title = "Redwood Tutorial Blog"
 [api]
-  port = 8911
+  port = 8915
 [browser]
   open = true
 [experimental]
